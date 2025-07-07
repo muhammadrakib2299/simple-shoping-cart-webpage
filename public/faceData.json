@@ -3,7 +3,7 @@
     "id": "p001",
     "title": "Classic Cotton T-Shirt",
     "price": 14.99,
-    "description": "Soft and breathable cotton t-shirt perfect for daily wear.",
+    "description": "Experience all-day comfort with our Classic Cotton T-Shirt, crafted from premium breathable cotton. Designed with a relaxed fit, this versatile piece is perfect for layering or wearing solo in any casual setting. Available in multiple colors to suit every style.",
     "category": "Men",
     "image": "https://i.ibb.co/j9kKTRjr/classic-t-shirt-men.jpg"
   },
@@ -11,72 +11,72 @@
     "id": "p002",
     "title": "Slim Fit Jeans",
     "price": 39.99,
-    "description": "Stylish slim-fit denim jeans with a modern cut.",
+    "description": "These Slim Fit Jeans are made with high-quality stretch denim for added flexibility and comfort. The modern tapered cut offers a stylish look, while five functional pockets make them practical for daily wear. Dress them up or down for any occasion.",
     "category": "Men",
-    "image": "https://source.unsplash.com/featured/?jeans"
+    "image": "https://i.ibb.co/YFykQNJJ/Slim-Fit-Jeans.jpg"
   },
   {
     "id": "p003",
     "title": "Floral Print Summer Dress",
     "price": 29.99,
-    "description": "Lightweight dress with floral print, ideal for summer outings.",
+    "description": "Step into summer with our Floral Print Summer Dress, featuring a vibrant flower pattern on soft, lightweight fabric. The sleeveless design, flowy skirt, and fitted waist create a flattering silhouette perfect for brunch dates, picnics, or beach outings.",
     "category": "Women",
-    "image": "https://source.unsplash.com/featured/?dress"
+    "image": "https://i.ibb.co/YT0ZbDft/Floral-Print-Summer-Dress.jpg"
   },
   {
     "id": "p004",
     "title": "Men's Hooded Sweatshirt",
     "price": 34.50,
-    "description": "Warm and comfortable hoodie for chilly days.",
+    "description": "Stay cozy and stylish with our Men's Hooded Sweatshirt. Made from a thick cotton blend, it offers warmth without bulk. The kangaroo pocket and adjustable drawstring hood add function and flair, making it perfect for both lounging and streetwear looks.",
     "category": "Men",
-    "image": "https://source.unsplash.com/featured/?hoodie"
+    "image": "https://i.ibb.co/KpsM1vXB/Men-s-Hooded-Sweatshirt.jpg"
   },
   {
     "id": "p005",
     "title": "High-Waist Leggings",
     "price": 22.00,
-    "description": "Stretchable leggings with high-waist support for workouts or casual wear.",
+    "description": "Designed for comfort and performance, our High-Waist Leggings offer a secure fit and sleek look. Made with moisture-wicking stretch fabric, they're ideal for yoga, workouts, or casual days out. The wide waistband provides tummy control and extra support.",
     "category": "Women",
-    "image": "https://source.unsplash.com/featured/?leggings"
+    "image": "https://i.ibb.co/NnVCBgdT/High-Waist-Leggings.webp"
   },
   {
     "id": "p006",
     "title": "Unisex Bomber Jacket",
     "price": 49.99,
-    "description": "Trendy bomber jacket with zip closure and sleek design.",
+    "description": "This Unisex Bomber Jacket brings a modern edge to a classic design. Featuring a zip-up front, ribbed cuffs, and lightweight lining, it's perfect for layering across seasons. Stylish enough for a night out yet casual enough for everyday wear.",
     "category": "Unisex",
-    "image": "https://source.unsplash.com/featured/?jacket"
+    "image": "https://i.ibb.co/WNcXRvz5/Unisex-Bomber-Jacket.jpg"
   },
   {
     "id": "p007",
     "title": "Kid's Cartoon Printed T-Shirt",
     "price": 12.99,
-    "description": "Colorful cartoon print tee made from 100% cotton.",
+    "description": "Brighten up your child’s day with our Kid's Cartoon Printed T-Shirt. Made from 100% soft cotton, it features colorful and fun character designs your kids will love. The durable stitching and breathable fabric make it ideal for all-day play.",
     "category": "Kids",
-    "image": "https://source.unsplash.com/featured/?kids-tshirt"
+    "image": "https://i.ibb.co/dwZXfzRH/Kid-s-Cartoon-Printed-T-Shirt.webp"
   },
   {
     "id": "p008",
     "title": "Women's Denim Skirt",
     "price": 27.95,
-    "description": "Chic denim skirt with front buttons and pocket detailing.",
+    "description": "Our Women's Denim Skirt is a timeless wardrobe essential, combining comfort with style. Designed with a high-rise waist and button-front closure, this skirt pairs effortlessly with tops, tees, or jackets for an instantly chic look.",
     "category": "Women",
-    "image": "https://source.unsplash.com/featured/?denim-skirt"
+    "image": "https://i.ibb.co/tpxfV5Tr/Women-s-Denim-Skirt.jpg"
   },
   {
     "id": "p009",
     "title": "Men's Formal Shirt",
     "price": 31.25,
-    "description": "Elegant long-sleeve formal shirt, ideal for office wear.",
+    "description": "Look sharp in our Men's Formal Shirt, tailored for a clean, structured fit. Crafted from premium cotton blend fabric, it’s breathable yet crisp, ideal for long office hours or formal events. Available in classic colors for maximum versatility.",
     "category": "Men",
-    "image": "https://source.unsplash.com/featured/?formal-shirt"
+    "image": "https://i.ibb.co/hRtR36Tj/Men-s-Formal-Shirt.webp"
   },
   {
     "id": "p010",
     "title": "Kid's Pajama Set",
     "price": 18.75,
-    "description": "Comfortable pajama set with cute prints for kids aged 3–8.",
+    "description": "Ensure a cozy night’s sleep with our Kid’s Pajama Set. Featuring adorable prints and ultra-soft cotton fabric, these pajamas are gentle on sensitive skin. The set includes a short-sleeve top and matching elastic waistband pants for easy wear.",
     "category": "Kids",
-    "image": "https://source.unsplash.com/featured/?kids-clothing"
+    "image": "https://i.ibb.co/ym4MJVqj/Kid-s-Pajama-Set.webp"
   }
 ]

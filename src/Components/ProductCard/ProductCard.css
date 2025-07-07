@@ -27,4 +27,5 @@
 .single-card-footer button{
     font-weight: bold;
     padding: 10px 15px;
+    cursor: pointer;
 }

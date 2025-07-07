@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>Welcome to Shop</h1>
+        <h1>Welcome to Our Shop</h1>
       </div>
       <div className="main-container">
         <ProductCard></ProductCard>
