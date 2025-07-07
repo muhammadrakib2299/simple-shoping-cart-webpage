@@ -1,0 +1,20 @@
+
+.single-card{
+    width: 300px;
+    padding: 15px;
+    border: 1px solid black;
+    box-shadow: 8px 8px 12px whitesmoke;
+    text-align: center;
+}
+.single-card img{
+    width: 300px;
+}
+.product-card-body{
+    text-align: justify;
+}
+
+.single-card-footer{
+    display: flex;
+    justify-content: space-around;
+    justify-items: center;
+}
