@@ -1,4 +1,15 @@
 .cart-container{
-    width: 350px;
+    padding: 15px 40px;
+    min-height: 500px;
     box-shadow: 4px 4px 8px gray;
+    border: 1px solid red;
+    border-radius: 10px;
+}
+
+.cart-title{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    justify-items: center;
+    padding: 20px 5px;
 }

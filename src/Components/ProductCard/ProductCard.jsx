@@ -13,10 +13,11 @@ const ProductCard = () => {
     .then(data => setProducts(data))
   },[])
 
+
   return (
     <div className='product-card-container'>
         {
-          products.map(product => <SingleProduct key={product.id} product={product}></SingleProduct>)
+          products.map(product => <SingleProduct  key={product.id} product={product}></SingleProduct>)
         }
     </div>
   )

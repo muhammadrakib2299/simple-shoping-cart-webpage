@@ -1,6 +1,10 @@
 .main-container{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: start;
 }
-
+.welcome-text{
+    width: 600px;
+    text-align: center;
+    padding: 25px;
+}

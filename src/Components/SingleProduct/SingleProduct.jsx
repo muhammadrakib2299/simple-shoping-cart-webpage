@@ -2,7 +2,6 @@ import React from 'react'
 import './SingleProduct.css';
 
 const SingleProduct = ({product}) => {
-    console.log(product.title)
     const {title, price, description,image} = product;
   return (
         <div>
