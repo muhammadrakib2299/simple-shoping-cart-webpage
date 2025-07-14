@@ -1,7 +1,7 @@
 import React from 'react'
 import './Purchase.css';
 
-const PurchaseCart = ({cart}) => {
+const PurchaseCart = ({cart, handleDeleteFromPurchase}) => {
   return (
     <div className='cart-container'>
         <h1>Purchase Cart</h1>
@@ -15,7 +15,7 @@ const PurchaseCart = ({cart}) => {
                   <p>{index+1}</p>
                   <h5>Name: {item.title.slice(0, 15)}</h5>
                   <h5>Price: $ {item.price}</h5>
-                  <button className='cart-delete-btn'>Delete</button>
+                  <button onClick={() => handleDeleteFromPurchase(item.id)} className='cart-delete-btn'>Delete</button>
                 </div>
             ))
           }
