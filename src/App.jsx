@@ -8,7 +8,15 @@ function App() {
   const [cart, setCart] = useState([]);
 
   const handlePurchaseCart = (product) =>{
-    setCart([...cart, product]);
+
+    const isExist = cart.find(item => item.id === product.id);
+    if(!isExist){
+      setCart([...cart, product]);
+    }
+    else{
+      alert("Item all ready Exist in Purchase Cart.")
+    }
+
   }
   
   return (
