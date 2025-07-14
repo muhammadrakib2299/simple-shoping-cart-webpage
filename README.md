@@ -12,7 +12,7 @@ A basic and elegant shopping cart web application where users can browse product
 
 ## 📸 Screenshot
 
-(./overview.png)
+/overview.png
 
 ---
 
