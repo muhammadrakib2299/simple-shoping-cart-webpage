@@ -1,15 +1,21 @@
 .cart-container{
-    padding: 15px 40px;
+    width: 400px;
+    padding: 15px 20px;
     min-height: 500px;
     box-shadow: 4px 4px 8px gray;
     border: 1px solid red;
     border-radius: 10px;
+    text-align: center;
+}
+
+.purchase-item-container{
+    padding: 20px 5px;
 }
 
 .cart-title{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     justify-items: center;
-    padding: 20px 5px;
+    margin: 6px 0px;
 }

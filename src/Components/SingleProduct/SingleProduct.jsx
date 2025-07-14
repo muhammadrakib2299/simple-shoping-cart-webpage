@@ -1,7 +1,7 @@
 import React from 'react'
 import './SingleProduct.css';
 
-const SingleProduct = ({product}) => {
+const SingleProduct = ({product, handlePurchaseCart}) => {
     const {title, price, description,image} = product;
   return (
         <div>
@@ -18,7 +18,7 @@ const SingleProduct = ({product}) => {
                 {/* Product Card footer */}
                 <div className='single-card-footer'>
                     <h3>Price: $ {price}</h3>
-                    <button>Add to Cart</button>
+                    <button onClick={() => handlePurchaseCart(product)}>Add to Cart</button>
                 </div>
             </div>
         </div>

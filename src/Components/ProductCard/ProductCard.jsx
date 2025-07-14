@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import './ProductCard.css'
 import SingleProduct from '../SingleProduct/SingleProduct';
 
-const ProductCard = () => {
+const ProductCard = ({handlePurchaseCart}) => {
 
   const [products, setProducts] = useState([]);
 
@@ -17,7 +17,11 @@ const ProductCard = () => {
   return (
     <div className='product-card-container'>
         {
-          products.map(product => <SingleProduct  key={product.id} product={product}></SingleProduct>)
+          products.map(product => <SingleProduct  
+            key={product.id} 
+            product={product}
+            handlePurchaseCart={handlePurchaseCart}
+            ></SingleProduct>)
         }
     </div>
   )
