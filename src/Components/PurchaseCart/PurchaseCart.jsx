@@ -8,16 +8,20 @@ const PurchaseCart = ({cart}) => {
         <hr />
 
         <div className='purchase-item-container'>
+          <div className=''>
           {
-            cart.map(item => (
-            <div className='cart-title'>
-              <h5>Name: {item.title.slice(0, 15)}</h5>
-              <h5>Price: $ {item.price}</h5>
-            </div>
+            cart.map((item, index) => (
+                <div className='cart-title'>
+                  <p>{index+1}</p>
+                  <h5>Name: {item.title.slice(0, 15)}</h5>
+                  <h5>Price: $ {item.price}</h5>
+                  <button className='cart-delete-btn'>Delete</button>
+                </div>
             ))
           }
-        </div>
+          </div>
 
+        </div>
     </div>
   )
 }
